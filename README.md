@@ -14,7 +14,8 @@ In this analysis we used pivot tables, filtering, and formulas.  The challenges 
 The review of outcome based on launch date revealed that kickstarters that launched in the summer months also saw more sucess in meeting their goals.  The month of May had the highest success date, with the percentage declining monthly after that.
 
 ### Analysis of Outcomes Based on Goals
-![Chart](https://github.com/g0m3zc/kickstarter-analysis/blob/33d2cff4367c29ccb06df6d21cef4a0073baf22e/Outcomes_vs_Goals.png)
+![Outcomes Over Time](https://user-images.githubusercontent.com/106936638/176804927-1ff2a3a4-2aca-4484-8fc5-dad4a8e90917.png)
+
 
 In general, a greater proportion of crowdfunding projects were successful if they had a lower goal.  As the goal increased, the success rate decreased.  It was an inverse relationship.
 
